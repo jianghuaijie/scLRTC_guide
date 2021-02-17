@@ -1,5 +1,5 @@
 # scLRCT_guide
-## dataset:
+## Dataset:
 Usoskin,Zeisel Dataset can download from https://hemberg-lab.github.io/scRNA.seq.datasets/mouse/brain/.<br>
 pollen dataset can download from https://hemberg-lab.github.io/scRNA.seq.datasets/human/tissues/.<br>
 Yan dataset can download from https://hemberg-lab.github.io/scRNA.seq.datasets/human/edev/.<br>
