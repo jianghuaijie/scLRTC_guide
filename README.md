@@ -10,8 +10,8 @@ Mouse2100 dataset can download from https://github.com/ttgump/scDeepCluster/tree
 Loh datasets can download from this github.<br>
 Petropoulos dataset can download https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929/.<br>
 
-## Downstream analysis dependence
-Downstream analysis dependence is implemented in R (>=3.6.2).Please install R (>=3.6.2) and all dependencies before Downstream analysis.<br>
+## Downstream analysis dependences
+Downstream analysis dependences is implemented in R (>=3.6.2).Please install R (>=3.6.2) and all dependencies before Downstream analysis.<br>
 The analysis code can be found in https://github.com/jianghuaijie/scLRTC/tree/main/analysis.<br>
 The SC3 package was downloaded from R Bioconductor (http://bioconductor.org/packages/release/bioc/html/SC3.html).<br>
 The TSCAN package was downloaded from R Bioconductor(http://www.bioconductor.org/packages/release/bioc/html/TSCAN.html).<br>
