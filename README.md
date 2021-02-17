@@ -1,4 +1,4 @@
-# scLRCT_guide
+# scLRTC_guide
 ## Guide Downstream analysis:
 The detailed guide(manual).pdf has shown how to use our demo and the downstream analysis after imputation.if you not used matlab or R You can refer to this document.<br>
 ## Dataset:
