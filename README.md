@@ -5,9 +5,9 @@ Usoskin, Zeisel dataset can be download from https://hemberg-lab.github.io/scRNA
 Pollen dataset can be download from https://hemberg-lab.github.io/scRNA.seq.datasets/human/tissues/.<br>
 Yan dataset can be download from https://hemberg-lab.github.io/scRNA.seq.datasets/human/edev/.<br>
 PBMC dataset can be download from https://support.10xgenomics.com/single-cell-gene-expression/datasets/2.1.0/pbmc4k.<br>
-Mouse2100 dataset can be download from https://github.com/ttgump/scDeepCluster/tree/master/scRNA-seq%20data.<br> 
+Mouse dataset can be download from https://github.com/ttgump/scDeepCluster/tree/master/scRNA-seq%20data.<br> 
 Loh dataset can be download from this github.<br>
-Petropoulos dataset can be download https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929/.<br>
+Petropoulos dataset can be download from https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929/.<br>
 
 ## Downstream analysis dependences
 Downstream analysis is implemented in R (>=3.6.2). Please install R (>=3.6.2) and all dependencies before downstream analysis.<br>
