@@ -1,5 +1,4 @@
 # scLRTC_guide
-## Detailed guide to downstream analysis:
 The detailed guide(manual).pdf has shown how to use our demo and downstream analysis after imputation. If you don't use matlab or R, you can refer to this guide.pdf.<br>
 ## Dataset:
 Usoskin, Zeisel dataset can be download from https://hemberg-lab.github.io/scRNA.seq.datasets/mouse/brain/.<br>
